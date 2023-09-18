@@ -1,0 +1,2 @@
+ALTER TABLE 科系代碼表_UI
+ADD [e-mail] VARCAR

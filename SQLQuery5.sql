@@ -1,0 +1,3 @@
+CREATE DATABASE MySchoolDB
+ON (NAME = MySchoolDB,
+FILENAME = 'D:\MyDB\MySchoolDB.MDF')
